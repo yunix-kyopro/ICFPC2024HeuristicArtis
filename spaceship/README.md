@@ -13,3 +13,8 @@ Since the optimal balance of these indicators varies depending on the problem, m
 dp: Contains the C++ program for dynamic programming
 sa: Contains the program for simulated annealing
 in: Contains the input cases
+
+# Lightning Round
+In the Lightning Round, solutions were primarily implemented using DP (Dynamic Programming) and simpler methods of controlling the ship.
+
+
