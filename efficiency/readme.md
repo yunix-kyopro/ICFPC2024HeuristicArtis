@@ -7,7 +7,7 @@ The basic approach for Efficiency was:
 
 For solving Sudoku and SAT problems, solvers were developed. For other problems, the processing content was inferred using LLM (Language Model) or manually read and answered.
 
-Example of transpile:
+Example of transpiler:
 ```
 [ICPC]
 B$ B$ L# L$ v# B. SB%,,/ S}Q/2,$_ IK
@@ -15,6 +15,8 @@ B$ B$ L# L$ v# B. SB%,,/ S}Q/2,$_ IK
 [JavaScript]
 app(app(lambda(v2 =>lambda(v3 =>v2)),concat(string("Hello"), string(" World!"))),integer(42))
 ```
+The transpiler can be used by ```python3 main.py``` in transpiler folder.
+
 
 # Files
 - transpiler: Code set for the transpiler.
