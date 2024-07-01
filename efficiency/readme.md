@@ -9,7 +9,7 @@ For solving Sudoku and SAT problems, solvers were developed. For other problems,
 
 Example of transpiler:
 ```
-[ICPC]
+[ICFP]
 B$ B$ L# L$ v# B. SB%,,/ S}Q/2,$_ IK
 
 [JavaScript]
